@@ -1,4 +1,3 @@
-// app/plugins/vuetify.ts
 import { createVuetify } from "vuetify";
 
 export default defineNuxtPlugin((nuxtApp) => {
@@ -9,10 +8,15 @@ export default defineNuxtPlugin((nuxtApp) => {
       themes: {
         light: {
           colors: {
-            primary: "#212121", // Negro/Gris muy oscuro
-            background: "#f5f5f5", // Gris muy claro
-            surface: "#FFFFFF", // Blanco puro
+            primary: "#212121",
+            secondary: "#424242",
+            error: "#B00020",
+            true: "#4CAF50",
+            border: "#E0E0E0",
+            background: "#f5f5f5",
+            surface: "#FFFFFF",
           },
+          dark: false,
         },
       },
     },

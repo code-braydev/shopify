@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop BZ Pro 14",
+    "price": 4599000,
+    "category": "Laptops",
+    "brand": "BZTech",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900",
+    "rating": 4.8,
+    "ratingCount": 132,
+    "stock": 7
+  },
+  {
+    "id": 2,
+    "name": "Mouse Pulse X2",
+    "price": 189000,
+    "category": "Accesorios",
+    "brand": "Pulse",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=900",
+    "rating": 4.6,
+    "ratingCount": 98,
+    "stock": 18
+  },
+  {
+    "id": 3,
+    "name": "Monitor Vision 27 4K",
+    "price": 1799000,
+    "category": "Monitores",
+    "brand": "Vision",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=900",
+    "rating": 4.7,
+    "ratingCount": 87,
+    "stock": 9
+  },
+  {
+    "id": 4,
+    "name": "Teclado Air65 Mecánico",
+    "price": 429000,
+    "category": "Accesorios",
+    "brand": "KeyForm",
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=900",
+    "rating": 4.5,
+    "ratingCount": 74,
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Nova S",
+    "price": 2999000,
+    "category": "Smartphones",
+    "brand": "Nova",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=900",
+    "rating": 4.4,
+    "ratingCount": 65,
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "Audifonos Studio Wave",
+    "price": 549000,
+    "category": "Audio",
+    "brand": "Wave",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900",
+    "rating": 4.9,
+    "ratingCount": 154,
+    "stock": 11
+  },
+  {
+    "id": 7,
+    "name": "Tablet Flux 11",
+    "price": 2199000,
+    "category": "Tablets",
+    "brand": "Flux",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=900",
+    "rating": 4.3,
+    "ratingCount": 49,
+    "stock": 13
+  },
+  {
+    "id": 8,
+    "name": "Webcam Crystal 2K",
+    "price": 259000,
+    "category": "Accesorios",
+    "brand": "Crystal",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=900",
+    "rating": 4.2,
+    "ratingCount": 39,
+    "stock": 20
+  }
+]
